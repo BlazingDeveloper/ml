@@ -1,0 +1,17 @@
+# Ignore large data and image files
+*.IMG
+*.img
+*.png
+*.jpg
+*.jpeg
+
+# Ignore output and data directories
+data/
+output/
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
